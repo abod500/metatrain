@@ -193,3 +193,12 @@ docs/src/architectures/default_hypers/*
 node_modules/
 package-lock.json
 package.json
+
+# Benchmark dirs
+benchmark/
+
+# Flashmd
+src/metatrain/flashmd/
+
+# uv
+uv.lock
